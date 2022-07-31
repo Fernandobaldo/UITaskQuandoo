@@ -9,10 +9,6 @@ Some additional dependencies:
 
 ## Getting Started
 
-### Pre-requisites:
-
-- Node JS v12.7+
-
 ### Install project dependencies
 Access the project root and execute the command in the terminal
 
