@@ -41,7 +41,7 @@ The “features” files are located on `cypress > e2e > features`, separated by
 	│   |    └── features
     |   |        ├── uiAutomatedTest.feature
 	│   │        └── uiAutomatedTest
-	│   │            ├── step-definition.js
+	│   │            └── step-definition.js
     |   └──...
 	└──...
 
